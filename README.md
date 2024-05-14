@@ -5,3 +5,4 @@ který umožní komunikaci v reálném čase prostřednictvím textových zpráv
 
 https://github.com/Plawro/chat-server/assets/91114584/a723af9b-c409-419b-ada8-97bc7b90039b
 
+[Dokumentace - OPS.pdf](https://github.com/Plawro/chat-server/files/15303695/Dokumentace.-.OPS.pdf)
