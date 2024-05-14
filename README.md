@@ -6,4 +6,4 @@ který umožní komunikaci v reálném čase prostřednictvím textových zpráv
 https://github.com/Plawro/chat-server/assets/91114584/13d9d1a8-2e16-4ba6-b3e6-afdd03dd42d4
 
 
-<a href="https://github.com/Plawro/chat-server/blob/main/Dokumentace%20-%20OPS.pdf" style="font-size:5;">Dokumentace</a>
+<a href="https://github.com/Plawro/chat-server/blob/main/Dokumentace%20-%20OPS.pdf">Dokumentace</a>
